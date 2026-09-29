@@ -6,7 +6,7 @@ expression dynamics (Euler-Maruyama); cells in a colony communicate
 through a shared, deterministically-integrated (RK4) pool of secreted
 signals.
 
-<img src="/figures/System.png" width="500">
+<img src="figures/System.png" width="500">
 
 On top of the core simulator, the project supports two ways of exploring
 signaling topologies:
